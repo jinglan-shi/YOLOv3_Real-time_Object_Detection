@@ -2,3 +2,6 @@
 **/.idea
 .DS_Store
 *.weights
+*.jpg
+*.png
+*.jpeg

@@ -5,7 +5,7 @@ import cv2
 import time
 
 # Read in image
-image_BGR = cv2.imread('images/women-in-a-meeting.jpeg')
+image_BGR = cv2.imread('images/cat-walking.png')
 
 # Show original image
 cv2.namedWindow('Original Image', cv2.WINDOW_NORMAL)
