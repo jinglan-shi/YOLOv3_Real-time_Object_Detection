@@ -177,7 +177,7 @@ for dirpath, dirnames, filenames in os.walk('.'):
 
 # 2. Then update and write downloaded data's annotations
 
-# Change to custom dataset directory
+# Change to downloaded dataset directory
 os.chdir(full_path_to_downloaded_data)
 
 # Go through all directories
@@ -194,7 +194,7 @@ for dirpath, dirnames, filenames in os.walk('.'):
             # Define the path to write the annotation to
             joined_txt_path = os.path.join(full_path_to_joint_data, f"{txt_name}.txt")
 
-            # Copy annotation of current image from custom dataset directory
+            # Copy annotation of current image from downloaded dataset directory
             # write into joined dataset directory
             # update class number in the annotation file
             with open(downloaded_txt_path, 'r') as downloaded, \
@@ -204,7 +204,7 @@ for dirpath, dirnames, filenames in os.walk('.'):
                     # Get current class number before joining together
                     c_number = int(line[:1])
 
-                    # Get the class name in custom data context
+                    # Get the class name in downloaded data context
                     c_name = downloaded_classes[c_number]
 
                     # Get updated class number
