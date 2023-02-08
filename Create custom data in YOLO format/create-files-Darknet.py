@@ -14,7 +14,8 @@
 import os
 
 # Define the working directory
-full_path_to_images = '/Users/jinglanshi/OIDv4_ToolKit/OID/Dataset/train/Bird_Cat_Person'
+# Note if you have datasets from different sources, this directory varies depends on your case
+full_path_to_images = '/Users/jinglanshi/Desktop/YOLOv3 for Github/Create custom data in YOLO format/custom-data'
 
 # Change to target directory
 os.chdir(full_path_to_images)

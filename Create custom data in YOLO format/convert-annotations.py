@@ -4,14 +4,14 @@ import os
 import pandas as pd
 
 full_path_to_csv = '/Users/jinglanshi/OIDv4_ToolKit/OID/csv_folder'
-full_path_to_images = '/Users/jinglanshi/OIDv4_ToolKit/OID/Dataset/train/Bird_Cat_Person'
+full_path_to_images = '/Users/jinglanshi/OIDv4_ToolKit/OID/Dataset/train/Bird_Dog_Person'
 
 ##########################################################################################
 # Extract LabelName from annotation file corresponding to labels of images we have       #
 ##########################################################################################
 
 # Label list containing the image categories of interest
-labels = ['Bird', 'Cat', 'Person']
+labels = ['Bird', 'Dog', 'Person']
 
 # Read in class-description file
 class_info = pd.read_csv(full_path_to_csv+'/'+'class-descriptions-boxable.csv', usecols=[0, 1], header=None)

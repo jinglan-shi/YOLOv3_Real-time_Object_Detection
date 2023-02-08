@@ -1,4 +1,4 @@
-# Custom data from real-life scenario are taken ny IPhone, some of the images are in .heic format
+# Custom data from real-life scenario are taken by IPhone, some of the images are in .heic format
 # These images need to be converted into proper format for Darknet framework
 # In this script, images of different formats will be extracted for converted
 # And at last, they are stored in one directory.
@@ -14,7 +14,7 @@ from pillow_heif import register_heif_opener
 
 # Define the directories that contain initial images and processes images
 target_dir = '/Users/jinglanshi/Desktop/YOLOv3 for Github/Create custom data in YOLO format/custom-data'
-source_dir = '/Users/jinglanshi/Desktop/Huli'
+source_dir = '/Users/jinglanshi/Desktop/downloaded_imgs'
 
 
 
