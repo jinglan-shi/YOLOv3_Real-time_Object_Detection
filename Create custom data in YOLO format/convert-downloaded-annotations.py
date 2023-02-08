@@ -1,10 +1,15 @@
-# Convert annotations written in csv file into YOLO format
+# This script is to process the data downloaded from Open Images Dataset
+# The annotation is written in csv file, which needs to be converted into YOLO format.
 
 import os
 import pandas as pd
 
+# Define the path of directories that accommodates downloaded data and relevant information
 full_path_to_csv = '/Users/jinglanshi/OIDv4_ToolKit/OID/csv_folder'
 full_path_to_images = '/Users/jinglanshi/OIDv4_ToolKit/OID/Dataset/train/Bird_Dog_Person'
+
+
+
 
 ##########################################################################################
 # Extract LabelName from annotation file corresponding to labels of images we have       #
@@ -27,6 +32,8 @@ for l in labels:
     ln = sub_classes.iloc[0][0]
     # Append the entrypted name to empty list
     encrypted_labels.append(ln)
+
+
 
 
 ##########################################################################################
@@ -72,6 +79,8 @@ annotation_to_write = sub_annotation.loc[:, ['ImageID',
                                              'height']].copy()
 
 
+
+
 ##########################################################################################
 # Write annotation information into the directory where images are                       #
 ##########################################################################################
@@ -98,4 +107,3 @@ for dirpath, dirnames, filenames in os.walk(full_path_to_images):
             # Write into txt file
             write_in_path = full_path_to_images+'/'+img_name+'.txt'
             img_annotation.to_csv(write_in_path, header=False, index=False, sep=' ')
-
