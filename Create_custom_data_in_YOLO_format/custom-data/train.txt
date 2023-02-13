@@ -1,0 +1,283 @@
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0318.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-09-22 120545.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0110.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2020-03-30 203548.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9737.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7090.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7012.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7061.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-20 190254.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0987.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9708.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7098.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3894.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9711.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790935666.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-12-01 195544.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0343.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3186.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7066.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7087.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4677.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7039.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790820128.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-19 130111.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7075.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9710.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7027.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0985.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1670370110882_1670454970638_93.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7094.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7089.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0429.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3145.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9733.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9709.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4868.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-12-01 195602.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1632263001545.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1946.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-12-07 123521.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3153.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0267.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-09-24 153114.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1947.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7059.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6997.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9719.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6941.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9699.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3065.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9729.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7019.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3957.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-12-01 195530.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790892062.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7099.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-19 132723.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7020.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7043.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7064.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_2976.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0430.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1257.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790942383.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3276.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7067.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1068.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7083.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7044.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7054.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3900.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3280.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3921.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1076.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790828346.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4327.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3094.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9735.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9960.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7006.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6994.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7088.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9718.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9712.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9740.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7013.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6999.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7105.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7015.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7096.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7018.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4332.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7085.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7079.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-09-24 200227.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7010.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675784098981.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790858034.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-09-24 152623.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6942.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4405.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7062.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7070.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1064.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1075.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7014.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9741.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_5408.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9817.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6925.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-19 131413.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7026.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7081.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3904.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7060.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7046.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0111.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2020-02-10 024607.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675784065616.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_5283.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9715.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4384.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4426.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4370.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3070.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-24 134656.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9734.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3278.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3959.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675784079985.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7004.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790951104.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6967.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6915.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0319.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3191.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7103.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0269.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-24 175615.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-09-24 152719.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7041.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1666313891372.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9685.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7033.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0427.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7028.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7024.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3077.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1651004316203.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7017.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1632263045903.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7063.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7034.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6961.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0983.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790839795.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7068.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9727.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1078.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0850.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2020-03-04 182849.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7003.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-09-25 111151.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4547.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7107.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7055.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7057.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7048.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7050.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4553.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7023.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4368.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6698.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2020-02-09 194024.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7007.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6995.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4329.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-24 174338.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0301.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9693.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2020-02-07 202933.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7077.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4333.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-09-26 141945.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7100.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3283.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6948.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1632262972334.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3903.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-24 174727.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9736.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7093.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7025.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3144.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_5407.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2020-02-03 153353.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3085.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_5240.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1112.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0300.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790917655.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7053.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9687.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-12-19 220728.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_5102.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9728.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7106.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0109.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3279.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7032.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675784100499.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9682.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3956.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7045.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1288.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7040.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790849444.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7071.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1651087465655.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790812506.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7082.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1639868091309.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1632262983076.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7022.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7037.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2020-02-09 160703.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-21 181048.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790875415.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3282.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0847.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7092.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_1010.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0302.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7009.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7047.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9706.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-03 160238.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0344.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675784079011.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4369.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7035.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7002.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3277.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7084.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790924197.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9698.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7001.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0761.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7052.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9705.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7049.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790976468.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7042.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7104.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3134.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7065.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9694.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/1675790805959.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4249.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_5331.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7021.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0328.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7097.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0467.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7078.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7072.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9803.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7073.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_2973.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-12-01 195522.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_0981.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_7091.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4322.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4325.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/2019-10-19 125930.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9695.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4269.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3190.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_6968.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_5104.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_9739.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_3075.jpg
+/Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/IMG_4763.jpg

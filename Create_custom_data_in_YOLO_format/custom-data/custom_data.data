@@ -1,0 +1,5 @@
+classes = 3
+train = /Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/train.txt
+valid = /Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/test.txt
+names = /Users/jinglanshi/Desktop/YOLOv3_for_Github/Create_custom_data_in_YOLO_format/custom-data/classes.names
+backup = backup
