@@ -42,6 +42,7 @@ for dirpath, firnames, filenames in os.walk(full_path_to_images):
 # Split the image into train set and test set
 test_size = int(len(p) * 0.15)
 # Shuffle the images to disrupt possible pattern
+random.seed(42)
 random.shuffle(p)
 train_p = p[:-test_size]
 test_p = p[-test_size:]
