@@ -1,2 +1,0 @@
-/Users/jinglanshi/Desktop/YOLOv3 for Github/labelled-data/video/image-16.jpeg
-/Users/jinglanshi/Desktop/YOLOv3 for Github/labelled-data/video/image-17.jpeg
