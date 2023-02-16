@@ -9,4 +9,4 @@
 
 
 ### Results
-* The model was trained on 319 images for 6000 epochs and tested on 56 images, got a test mAP of 66.67%.
+* The model was trained on 319 images for 6000 iterations and tested on 56 images, got a test mAP of 66.67%.
